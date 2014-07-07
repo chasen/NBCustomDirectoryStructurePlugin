@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.chasenoel.symfonybundletemplates
+OpenIDE-Module-Localizing-Bundle: com/chasenoel/directorystructuretemplates/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
